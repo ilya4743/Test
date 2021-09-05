@@ -1,0 +1,5 @@
+﻿  task3.cpp
+C:\Users\ilaso\Documents\Новая папка\Test\task3\task3.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilaso\Documents\Новая папка\Test\task3\task3.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilaso\Documents\Новая папка\Test\task3\task3.cpp(55,19): warning C4018: <: несоответствие типов со знаком и без знака
+  task3.vcxproj -> C:\Users\ilaso\Documents\Новая папка\Test\task3\Debug\task3.exe

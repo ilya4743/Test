@@ -1,0 +1,4 @@
+﻿  task4.cpp
+C:\Users\ilaso\Documents\Новая папка\Test\task4\task4.cpp(30,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilaso\Documents\Новая папка\Test\task4\task4.cpp(41,27): warning C4018: <: несоответствие типов со знаком и без знака
+  task4.vcxproj -> C:\Users\ilaso\Documents\Новая папка\Test\task4\Debug\task4.exe
